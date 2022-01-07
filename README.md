@@ -1,4 +1,6 @@
-# signup_mean
+# signup_MEAN stack API
+
+Created a beautiful and dynamic signup API using MEAN stack
 
 To clone this project, run
 
