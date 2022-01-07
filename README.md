@@ -1,4 +1,4 @@
-# signup_MEAN stack API
+# signup_MEAN
 
 Created a beautiful and dynamic signup API using MEAN stack
 
