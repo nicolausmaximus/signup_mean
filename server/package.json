@@ -1,0 +1,26 @@
+{
+    "name": "signup_mean",
+    "version": "1.0.0",
+    "description": "A signup page using MEAN stack",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Aniket",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/nicolausmaximus/signup_mean.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nicolausmaximus/signup_mean/issues"
+    },
+    "homepage": "https://github.com/nicolausmaximus/signup_mean#readme",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.1",
+        "cors": "^2.8.5",
+        "express": "^4.17.2",
+        "mongoose": "^6.1.5"
+    }
+}
