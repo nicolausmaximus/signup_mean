@@ -29,9 +29,9 @@ To run the server side
   ng serve -o --poll=9999
 ```
 
-Server starts on port=9999 
+Server starts on port=4200 
 ```bash
-http://localhost:2000
+http://localhost:4200
 ```
 
 
